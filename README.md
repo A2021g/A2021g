@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A2021g
-- 👀 I’m interested in Python and Selenium
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cypress and Github
+- 🌱 I’m currently learning Cypress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
